@@ -1,25 +1,16 @@
 ---
 layout: page
-title: Samanway 2014
+title: Overview
 tagline: Indian Institute of Science
 ---
 {% include JB/setup %}
 
+Samanway 2014 will be organized in three parts.
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
-## Event Overview
+## Part I
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
 
-The theme should reference these variables whenever needed.
     
 ## Sample Posts
 
